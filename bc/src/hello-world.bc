@@ -1,0 +1,3 @@
+#!/usr/bin/bc
+print "hello world\n"
+quit
